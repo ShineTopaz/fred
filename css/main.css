@@ -133,8 +133,8 @@ h2 span {color: var(--main-color);}
 /* footer */
 
 #footer {padding: 100px 0; background: #000; color: #fff; font-size: 1.5rem;}
-#footer .inner .footer_top {display: flex; justify-content: space-between; flex-wrap: wrap; gap:10px;}
-#footer .inner .footer_top .info {display: flex;}
+#footer .inner .footer_top {display: flex; justify-content: space-between; flex-wrap: wrap;}
+#footer .inner .footer_top .info {display: flex; flex-wrap: wrap; gap: 20px;}
 #footer .inner .footer_top .info li {margin-right: 20px;}
 #footer .inner .footer_top .sns {display: flex;}
 #footer .inner .footer_top .sns li {margin-right: 10px;}
